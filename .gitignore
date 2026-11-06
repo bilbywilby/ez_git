@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+.audit_logs/
+*_staging/
+.env
+.vscode/
